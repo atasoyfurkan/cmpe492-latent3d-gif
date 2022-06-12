@@ -1,0 +1,7 @@
+/results/
+/.idea/
+**/.DS_Store
+/__pycache__
+/.vscode
+/pretrained_models
+/.ipynb_checkpoints
